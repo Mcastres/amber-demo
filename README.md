@@ -1,6 +1,6 @@
-# Hypertube
+# Amber demo
 
-Website demo with Crystal Framework: Amber
+Website built with Amber, an MVC Framework for Crystal
 
 # Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Be sure to have Crsytal and Amber installed on your computer
+Be sure to have Crystal and Amber installed on your computer
 
 Clone the repository...
 
@@ -40,4 +40,4 @@ Go to http://localhost:3000/
 
 ## Author
 
-* **Castres Maxime** - *Rails back and front* - (https://github.com/Mcastres)
+* **Castres Maxime** - *Everything* - (https://github.com/Mcastres)
